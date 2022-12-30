@@ -1,0 +1,5 @@
+#animation {
+	animation-name: fadein;
+	animation-duration: 0s;
+	animation-fill-mode: forwards;
+}
